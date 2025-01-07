@@ -1,3 +1,4 @@
+"MessageId": "introtonewsoftware"
 "Subject": "Exciting News from KosherGPT!"
 "Body": """Dear Valued User,
 Get ready for some thrilling updates! :rocket: We're enhancing KosherGPT to bring you an even better experience. To make this happen, we’ll need to take a short break.
